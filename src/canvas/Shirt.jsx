@@ -8,7 +8,7 @@ import state from '../store';
 import { Group } from 'three';
 
 
-state.color = '#EFBD48';
+// state.color = '#EFBD48';
 
 const Shirt = () => {
     const snap = useSnapshot(state);
